@@ -1,18 +1,21 @@
-# ConstructLayout
+### ConstructLayout
 Vista de una calculadora desarrollada con el administrador capas de construct layout
 
-Name
+###Name
 Calculadora con Construct Layout
 
-Description
+###Description
 Esta aplicación esta desarrollada con el administrador de capas de Construct layout
 
-Usage
+### Visuals
+![](images/Screenshot_20191214-141744_ConstructLayout.jpg)
+
+###Usage
 Esta aplicación muestra la vista de una  calculadora realizada con construct layout
 
 
-Roadmap
+###Roadmap
 Diseño de la aplicación para que se vea con mejor apariencia.
 
-Authors and acknowledgment
+###Authors and acknowledgment
 Daniela Cortez Zavala responsable de la creación de este proyecto
